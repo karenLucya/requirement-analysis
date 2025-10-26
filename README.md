@@ -54,3 +54,24 @@ A well-analyzed set of requirements ensures that the software aligns with user n
 
 ### **5. Provides a Basis for Design and Testing**
 Requirement documents serve as a reference for designing the system architecture and writing test cases. This ensures consistency across the SDLC and helps verify that all requirements are met.
+---
+
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase consists of several critical activities that ensure a software project is well-understood, accurately defined, and aligned with stakeholder needs.  
+Below are the **five key activities** involved in this process:
+
+- **Requirement Gathering:**  
+  This involves collecting information from stakeholders through methods like interviews, surveys, observation, and workshops. The goal is to identify all user needs and business objectives.
+
+- **Requirement Elicitation:**  
+  This step refines the gathered information by engaging stakeholders to clarify their expectations and priorities. Techniques like brainstorming, focus groups, and use case analysis are often used.
+
+- **Requirement Documentation:**  
+  All gathered and clarified requirements are recorded in detailed documents such as Software Requirement Specifications (SRS), user stories, or use case diagrams. This ensures consistency and serves as a reference for all project teams.
+
+- **Requirement Analysis and Modeling:**  
+  Analysts examine and structure the documented requirements to understand relationships, dependencies, and feasibility. Modeling tools like data flow diagrams (DFDs), UML diagrams, and prototypes help visualize the system.
+
+- **Requirement Validation:**  
+  In this final activity, requirements are reviewed with stakeholders to confirm they are complete, accurate, and aligned with business goals. This step ensures that the requirements are ready for design and implementation.
