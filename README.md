@@ -75,3 +75,48 @@ Below are the **five key activities** involved in this process:
 
 - **Requirement Validation:**  
   In this final activity, requirements are reviewed with stakeholders to confirm they are complete, accurate, and aligned with business goals. This step ensures that the requirements are ready for design and implementation.
+---
+
+## Types of Requirements
+
+In Requirement Analysis, software requirements are broadly classified into **Functional Requirements** and **Non-functional Requirements**.  
+Both types are crucial for defining what a system should do and how well it should perform.  
+
+Below are their definitions and examples based on a **Property Booking Management System** case study.
+
+---
+
+### **1. Functional Requirements**
+
+**Definition:**  
+Functional requirements define the **specific behaviors, features, or functions** that a system must perform. They describe **what the system should do** to meet user and business needs.
+
+**Examples (for the Property Booking Management System):**
+- Users should be able to **search for available properties** based on location, date, and price range.  
+- The system should allow **users to create accounts** and **log in securely**.  
+- The system should enable **property owners to list and manage their properties** (upload images, set prices, update availability).  
+- Customers should be able to **book properties online** and **receive confirmation via email or SMS**.  
+- The system should support **payment processing** using secure online methods (e.g., credit card, mobile money).  
+- Admins should be able to **view and manage all bookings** and **generate reports**.
+
+---
+
+### **2. Non-functional Requirements**
+
+**Definition:**  
+Non-functional requirements define **how the system performs** its functions rather than what it does. They describe **quality attributes** such as performance, security, scalability, and usability.
+
+**Examples (for the Property Booking Management System):**
+- **Performance:** The system should load each page in **under 2 seconds**.  
+- **Availability:** The system must be available **99.9% of the time** to support 24/7 bookings.  
+- **Security:** All user data must be **encrypted** during storage and transmission.  
+- **Scalability:** The platform should handle **up to 10,000 simultaneous users** during peak periods.  
+- **Usability:** The user interface should be **responsive** and accessible on both mobile and desktop devices.  
+- **Reliability:** Booking transactions should complete successfully **at least 99% of the time**.  
+- **Maintainability:** The system codebase should allow easy updates and bug fixes without downtime.
+
+---
+
+**Summary:**  
+Functional requirements define **what the system does**, while non-functional requirements define **how well it does it**.  
+Both are essential for delivering a successful and user-friendly booking management system.
